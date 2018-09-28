@@ -1,2 +1,2 @@
 # redproductions.github.io
-Projects, hacking and hacking projects
+Projects and hacking, mostly hacking projects
